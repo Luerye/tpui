@@ -1,0 +1,277 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Loading",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "team name",
+        "guid": "8b674ed9-a3f2-4521-b0d4-2b98af8d37f8",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 588,
+          "y": -1175,
+          "width": 300,
+          "height": 300,
+          "ex": 888,
+          "ey": -875
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.5622188905547226
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.5622188905547226
+          },
+          "offset_min": {
+            "x": -150,
+            "y": -150
+          },
+          "offset_max": {
+            "x": 150,
+            "y": 150
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "team_name"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "team name+8b674"
+        }
+      },
+      {
+        "type": "Text",
+        "name": "Loading",
+        "text": {
+          "text": "Loading...",
+          "textType": "point",
+          "font": "Roboto",
+          "style": "Regular",
+          "size": 15,
+          "color": "#ffffff",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "6150cff5-f0d0-4c5c-b1cc-58db81d6ba3c",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 701,
+          "y": -747,
+          "width": 66,
+          "height": 20,
+          "ex": 767,
+          "ey": -727,
+          "text": {
+            "fontSize": 15
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49066666666666664,
+            "y": 0.13043478260869568
+          },
+          "anchor_max": {
+            "x": 0.49066666666666664,
+            "y": 0.13043478260869568
+          },
+          "offset_min": {
+            "x": -33,
+            "y": -10
+          },
+          "offset_max": {
+            "x": 33,
+            "y": 10
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Loading",
+          ".",
+          ".",
+          "."
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "Loading bar",
+        "guid": "a31ed784-5cd9-489b-ae90-271b1fbb2e27",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 568,
+          "y": -720,
+          "width": 260,
+          "height": 10,
+          "ex": 828,
+          "ey": -710
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.39466666666666667,
+            "y": 0.09745127436281859
+          },
+          "anchor_max": {
+            "x": 0.39466666666666667,
+            "y": 0.09745127436281859
+          },
+          "offset_min": {
+            "x": -130,
+            "y": -5
+          },
+          "offset_max": {
+            "x": 130,
+            "y": 5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Loading_bar"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Loading bar+a31ed"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Loading bar outline",
+        "guid": "e99d1d11-55f1-4bbc-a5c0-f495459850d5",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 563,
+          "y": -725,
+          "width": 350,
+          "height": 20,
+          "ex": 913,
+          "ey": -705
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.09745127436281859
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.09745127436281859
+          },
+          "offset_min": {
+            "x": -175,
+            "y": -10
+          },
+          "offset_max": {
+            "x": 175,
+            "y": 10
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Loading_bar_outline"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Loading bar outline+e99d1"
+        }
+      }
+    ],
+    "guid": "039c7405-c801-4cae-bab7-57979715dfc9",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 550,
+      "y": -1317,
+      "width": 375,
+      "height": 667,
+      "ex": 925,
+      "ey": -650
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Loading"
+    ],
+    "fill_color": "#192655"
+  }
+}

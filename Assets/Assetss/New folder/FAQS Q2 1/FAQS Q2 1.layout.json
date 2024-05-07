@@ -1,0 +1,1545 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "FAQS – Q2 – 1",
+    "elements": [
+      {
+        "type": "Group",
+        "name": "Group 6",
+        "elements": [
+          {
+            "type": "Group",
+            "name": "Q2",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "teksandpogsph",
+                "text": {
+                  "text": "You can purchase a card pack here at:\nhttps://shopee.ph/teksandpogsph",
+                  "textType": "point",
+                  "font": "Roboto",
+                  "style": "Regular",
+                  "size": 15,
+                  "color": "#000000",
+                  "align": "leftmiddle",
+                  "opacity": 100
+                },
+                "guid": "4e5e454d-44e3-4d38-9ea4-59937fc9b89f",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1652,
+                  "y": 2586,
+                  "width": 253,
+                  "height": 40,
+                  "ex": 1905,
+                  "ey": 2626,
+                  "text": {
+                    "fontSize": 15
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0.376,
+                    "bottom": 0.304,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.4640000000000001
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.4640000000000001
+                  },
+                  "offset_min": {
+                    "x": 14,
+                    "y": -20
+                  },
+                  "offset_max": {
+                    "x": -33,
+                    "y": 20
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "teksandpogsph"
+                ]
+              },
+              {
+                "type": "Image",
+                "name": "Icon ionic-ios-arrow-dropup-circle",
+                "guid": "3048700a-e114-461a-b06b-086ab3bd3f6e",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1900,
+                  "y": 2549.375,
+                  "width": 25,
+                  "height": 25,
+                  "ex": 1925,
+                  "ey": 2574.375
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": 0.8733333333333333,
+                    "right": true,
+                    "top": true,
+                    "bottom": 0.717,
+                    "width": true,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "anchor_min": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": -38,
+                    "y": -35.375
+                  },
+                  "offset_max": {
+                    "x": -13,
+                    "y": -10.375
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Icon_ionic-ios-arrow-dropup-circle"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Icon ionic-ios-arrow+30487"
+                }
+              },
+              {
+                "type": "Text",
+                "name": "Where to buy Teks and Pogs?",
+                "text": {
+                  "text": "Where to buy Teks and Pogs?",
+                  "textType": "point",
+                  "font": "Roboto",
+                  "style": "Bold",
+                  "size": 18,
+                  "color": "#000000",
+                  "align": "centermiddle",
+                  "opacity": 100
+                },
+                "guid": "02986ca0-0a39-43c2-b71d-1b2e7d5643ef",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1651,
+                  "y": 2549,
+                  "width": 240,
+                  "height": 24,
+                  "ex": 1891,
+                  "ey": 2573,
+                  "text": {
+                    "fontSize": 18
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": 0.15666666666666668,
+                    "top": true,
+                    "bottom": 0.728,
+                    "width": true,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "anchor_max": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 13,
+                    "y": -34
+                  },
+                  "offset_max": {
+                    "x": 253,
+                    "y": -10
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Where_to_buy_Teks_and_Pogs_"
+                ]
+              },
+              {
+                "type": "Image",
+                "name": "FAQS",
+                "guid": "97c6c93e-d18b-4858-8b6a-eae28ba7e08c",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1638,
+                  "y": 2539,
+                  "width": 300,
+                  "height": 125,
+                  "ex": 1938,
+                  "ey": 2664
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "FAQS"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "FAQS+97c6c"
+                }
+              }
+            ],
+            "guid": "d4f4ab0a-2286-4cfb-9dad-1943bf91d736",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1638,
+              "y": 2539,
+              "width": 300,
+              "height": 125,
+              "ex": 1938,
+              "ey": 2664
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": 0.358974358974359,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 1
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 1
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": -125
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Q2"
+            ]
+          },
+          {
+            "type": "Group",
+            "name": "Q1",
+            "elements": [
+              {
+                "type": "Group",
+                "name": "Icon ionic-ios-arrow-dropdown",
+                "elements": [
+                  {
+                    "type": "Image",
+                    "name": "Path 6",
+                    "guid": "20be148d-4d49-4d4e-adb4-2b92a7a4188d",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 1900,
+                      "y": 2697,
+                      "width": 25,
+                      "height": 25,
+                      "ex": 1925,
+                      "ey": 2722
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": true,
+                        "right": true,
+                        "top": true,
+                        "bottom": true,
+                        "width": false,
+                        "height": false
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "anchor_max": {
+                        "x": 1,
+                        "y": 1
+                      },
+                      "offset_min": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "offset_max": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "Path_6"
+                    ],
+                    "opacity": 100,
+                    "image": {
+                      "source_image": "Path 6+20be1"
+                    }
+                  },
+                  {
+                    "type": "Image",
+                    "name": "Path 5",
+                    "guid": "3cb231e1-18c1-4d9c-8a80-84240e4dd3be",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 1906.607666015625,
+                      "y": 2705.671875,
+                      "width": 11.77587890625,
+                      "height": 9.4248046875,
+                      "ex": 1918.383544921875,
+                      "ey": 2715.0966796875
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": 0.264306640625,
+                        "right": 0.264658203125,
+                        "top": 0.346875,
+                        "bottom": 0.2761328125,
+                        "width": true,
+                        "height": true
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.49982421875000005,
+                        "y": 0.46462890625
+                      },
+                      "anchor_max": {
+                        "x": 0.49982421875000005,
+                        "y": 0.46462890625
+                      },
+                      "offset_min": {
+                        "x": -5.887939453125,
+                        "y": -4.71240234375
+                      },
+                      "offset_max": {
+                        "x": 5.887939453125,
+                        "y": 4.71240234375
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "Path_5"
+                    ],
+                    "opacity": 100,
+                    "image": {
+                      "source_image": "Path 5+3cb23"
+                    }
+                  }
+                ],
+                "guid": "060e3fe5-72c4-403c-842f-7471bcc26de3",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1900,
+                  "y": 2697,
+                  "width": 25,
+                  "height": 25,
+                  "ex": 1925,
+                  "ey": 2722
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": 0.8733333333333333,
+                    "right": true,
+                    "top": 0.26,
+                    "bottom": 0.24,
+                    "width": true,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 1,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 1,
+                    "y": 0.49
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.49
+                  },
+                  "offset_min": {
+                    "x": -38,
+                    "y": -12.5
+                  },
+                  "offset_max": {
+                    "x": -13,
+                    "y": 12.5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Icon_ionic-ios-arrow-dropdown"
+                ]
+              },
+              {
+                "type": "Text",
+                "name": "How does it work?",
+                "text": {
+                  "text": "How does it work?",
+                  "textType": "point",
+                  "font": "Roboto",
+                  "style": "Bold",
+                  "size": 18,
+                  "color": "#000000",
+                  "align": "centermiddle",
+                  "opacity": 100
+                },
+                "guid": "cc0d6ca0-57f1-4da1-b5c7-e0f942df84e3",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1651,
+                  "y": 2697,
+                  "width": 150,
+                  "height": 24,
+                  "ex": 1801,
+                  "ey": 2721,
+                  "text": {
+                    "fontSize": 18
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": 0.45666666666666667,
+                    "top": 0.26,
+                    "bottom": 0.26,
+                    "width": true,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": 13,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": 163,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "How_does_it_work_"
+                ]
+              },
+              {
+                "type": "Image",
+                "name": "FAQS",
+                "guid": "a822f806-cba2-4842-bd4c-671dd20f1b3a",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1638,
+                  "y": 2684,
+                  "width": 300,
+                  "height": 50,
+                  "ex": 1938,
+                  "ey": 2734
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "FAQS"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "FAQS+a822f"
+                }
+              }
+            ],
+            "guid": "627359e3-74bd-4ed5-9c39-de7e03a43e1c",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1638,
+              "y": 2684,
+              "width": 300,
+              "height": 50,
+              "ex": 1938,
+              "ey": 2734
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.7435897435897436,
+                "bottom": true,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 50
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Q1"
+            ]
+          }
+        ],
+        "guid": "2e341022-3ab1-459c-9353-4a8161868ec2",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1638,
+          "y": 2539,
+          "width": 300,
+          "height": 195,
+          "ex": 1938,
+          "ey": 2734
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.48200899550224885
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.48200899550224885
+          },
+          "offset_min": {
+            "x": -150,
+            "y": -97.5
+          },
+          "offset_max": {
+            "x": 150,
+            "y": 97.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Group_6"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "FAQS",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "FAQ's",
+            "text": {
+              "text": "FAQ's",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 25,
+              "color": "#000000",
+              "align": "centermiddle",
+              "opacity": 100
+            },
+            "guid": "d9be2500-1701-4a8d-b39a-539cfcecdc65",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1756.652587890625,
+              "y": 2472,
+              "width": 62,
+              "height": 33,
+              "ex": 1818.652587890625,
+              "ey": 2505,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.2728448397871377,
+                "right": 0.27787979789402173,
+                "top": 0.16,
+                "bottom": 0.18,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.497482520946558,
+                "y": 0.51
+              },
+              "anchor_max": {
+                "x": 0.497482520946558,
+                "y": 0.51
+              },
+              "offset_min": {
+                "x": -31,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": 31,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "FAQ_s"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "FAQS",
+            "guid": "ba99dd58-5361-404f-94c8-bc3cd22e0625",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1719,
+              "y": 2464,
+              "width": 138,
+              "height": 50,
+              "ex": 1857,
+              "ey": 2514
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "FAQS"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "FAQS+ba99d"
+            }
+          }
+        ],
+        "guid": "fef7fe1a-2fc3-4e3d-b849-cef73618ebe7",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1719,
+          "y": 2464,
+          "width": 138,
+          "height": 50,
+          "ex": 1857,
+          "ey": 2514
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.7031484257871065
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.7031484257871065
+          },
+          "offset_min": {
+            "x": -69,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 69,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "FAQS"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "FAQS",
+        "guid": "186dacf5-a41b-4b81-9229-3bf534560011",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1625,
+          "y": 2486,
+          "width": 325,
+          "height": 300,
+          "ex": 1950,
+          "ey": 2786
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.4827586206896552
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.4827586206896552
+          },
+          "offset_min": {
+            "x": -162.5,
+            "y": -150
+          },
+          "offset_max": {
+            "x": 162.5,
+            "y": 150
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "FAQS"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "FAQS+186da"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Icon metro-question",
+        "guid": "caf3d8f6-8195-4230-ab3b-001fa3592076",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1925,
+          "y": 2316,
+          "width": 30,
+          "height": 30,
+          "ex": 1955,
+          "ey": 2346
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.9066666666666667,
+            "y": 0.9400299850074962
+          },
+          "anchor_max": {
+            "x": 0.9066666666666667,
+            "y": 0.9400299850074962
+          },
+          "offset_min": {
+            "x": -15,
+            "y": -15
+          },
+          "offset_max": {
+            "x": 15,
+            "y": 15
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Icon_metro-question"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Icon metro-question+caf3d"
+        }
+      },
+      {
+        "type": "Text",
+        "name": "TEKS AND POGS PH",
+        "text": {
+          "text": "TEKS AND POGS PH",
+          "textType": "point",
+          "font": "BARABARA-FINAL",
+          "style": "Regular",
+          "size": 30,
+          "color": "#192655",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "81bf656c-745c-43ea-9537-903b542541b2",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1639,
+          "y": 2368,
+          "width": 322,
+          "height": 40,
+          "ex": 1961,
+          "ey": 2408,
+          "text": {
+            "fontSize": 30
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5333333333333333,
+            "y": 0.8545727136431784
+          },
+          "anchor_max": {
+            "x": 0.5333333333333333,
+            "y": 0.8545727136431784
+          },
+          "offset_min": {
+            "x": -161,
+            "y": -20
+          },
+          "offset_max": {
+            "x": 161,
+            "y": 20
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "TEKS_AND_POGS_PH"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Icons",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-home",
+            "guid": "3e316248-be69-4f17-a440-8ffce8788d46",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1612.007568359375,
+              "y": 2914.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1648.007568359375,
+              "ey": 2950.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.8971428571428571,
+                "top": 0.4999983045847419,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0.000244140625
+              },
+              "offset_max": {
+                "x": 36,
+                "y": 36.000244140625
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-home"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-home+3e316"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon metro-books",
+            "guid": "a3275916-5641-4e14-a653-4aea2581c41f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1683.007568359375,
+              "y": 2914.473388671875,
+              "width": 36,
+              "height": 36,
+              "ex": 1719.007568359375,
+              "ey": 2950.473388671875
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.20285714285714285,
+                "right": 0.6942857142857143,
+                "top": 0.5000016954152581,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.2542857142857143,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.2542857142857143,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -18,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 18,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_metro-books"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon metro-books+a3275"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "AR SCANNER",
+            "elements": [
+              {
+                "type": "Image",
+                "name": "ar scanner",
+                "guid": "29c19806-adb3-4ec5-afc5-06f8d7ac52a4",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1759.5,
+                  "y": 2883.47314453125,
+                  "width": 56,
+                  "height": 56,
+                  "ex": 1815.5,
+                  "ey": 2939.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 5.492431640625,
+                    "y": 5
+                  },
+                  "offset_max": {
+                    "x": -4.507568359375,
+                    "y": -5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner+29c19"
+                }
+              },
+              {
+                "type": "Image",
+                "name": "ar scanner circle",
+                "guid": "75151063-beb6-4fff-8268-11a7d6e8903a",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1754.007568359375,
+                  "y": 2878.47314453125,
+                  "width": 66,
+                  "height": 66,
+                  "ex": 1820.007568359375,
+                  "ey": 2944.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner_circle"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner circle+75151"
+                }
+              }
+            ],
+            "guid": "0a8a078e-8050-45ab-8db8-73ee057a90ca",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1754.007568359375,
+              "y": 2878.47314453125,
+              "width": 66,
+              "height": 66,
+              "ex": 1820.007568359375,
+              "ey": 2944.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.4057142857142857,
+                "right": 0.4057142857142857,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -33,
+                "y": 6.000244140625
+              },
+              "offset_max": {
+                "x": 33,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "AR_SCANNER"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Icon ionic-md-settings",
+            "guid": "aa786f38-8100-4f9e-8cf2-f6eb3ba1a203",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1855.0076904296875,
+              "y": 2914.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1891.0076904296875,
+              "ey": 2950.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.6942860630580358,
+                "right": 0.20285679408482143,
+                "top": 0.4999983045847419,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.7457146344866071,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.7457146344866071,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -18,
+                "y": 0.000244140625
+              },
+              "offset_max": {
+                "x": 18,
+                "y": 36.000244140625
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_ionic-md-settings"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon ionic-md-settin+aa786"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon awesome-user-alt",
+            "guid": "07e7fef0-cd08-4c81-b078-2a3912076ece",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1926.007568359375,
+              "y": 2914.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1962.007568359375,
+              "ey": 2950.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.8971428571428571,
+                "right": true,
+                "top": 0.4999983045847419,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -36,
+                "y": 0.000244140625
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 36.000244140625
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-user-alt"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-user-al+07e7f"
+            }
+          }
+        ],
+        "guid": "d799ae4c-737c-495b-bef0-d89a7029f5a1",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1612.007568359375,
+          "y": 2878.47314453125,
+          "width": 350,
+          "height": 72.000244140625,
+          "ex": 1962.007568359375,
+          "ey": 2950.473388671875
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4986868489583333,
+            "y": 0.06525747136197524
+          },
+          "anchor_max": {
+            "x": 0.4986868489583333,
+            "y": 0.06525747136197524
+          },
+          "offset_min": {
+            "x": -175,
+            "y": -36.0001220703125
+          },
+          "offset_max": {
+            "x": 175,
+            "y": 36.0001220703125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Icons"
+        ]
+      },
+      {
+        "elements": [],
+        "type": "Image",
+        "name": "Union 1",
+        "guid": "3c638b77-5c94-47d4-9a83-413ef23e2e77",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1599.999755859375,
+          "y": 2873.99951171875,
+          "width": 375.000244140625,
+          "height": 84.00048828125,
+          "ex": 1975,
+          "ey": 2958
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49999967447916666,
+            "y": 0.0629688817700525
+          },
+          "anchor_max": {
+            "x": 0.49999967447916666,
+            "y": 0.0629688817700525
+          },
+          "offset_min": {
+            "x": -187.5001220703125,
+            "y": -42.000244140625
+          },
+          "offset_max": {
+            "x": 187.5001220703125,
+            "y": 42.000244140625
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Union_1"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Union 1+3c638"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Homepage bg",
+        "guid": "2985db6f-9637-43b0-be56-b7724c21c9a9",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1600,
+          "y": 2291,
+          "width": 375,
+          "height": 667,
+          "ex": 1975,
+          "ey": 2958
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": -187.5,
+            "y": -333.5
+          },
+          "offset_max": {
+            "x": 187.5,
+            "y": 333.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Homepage_bg"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Homepage bg+2985d"
+        }
+      }
+    ],
+    "guid": "506190bd-962c-4185-90b4-d601543fc4c6",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 1600,
+      "y": 2291,
+      "width": 375,
+      "height": 667,
+      "ex": 1975,
+      "ey": 2958
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "FAQS___Q2___1"
+    ],
+    "fill_color": "#ffffff"
+  }
+}

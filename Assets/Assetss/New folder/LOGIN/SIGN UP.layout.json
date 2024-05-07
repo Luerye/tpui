@@ -1,0 +1,435 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "SIGN UP",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "circle game name no bg",
+        "guid": "c53513c7-dd3d-4b43-bc5d-d1182831f7b5",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1138,
+          "y": -1175,
+          "width": 250,
+          "height": 250,
+          "ex": 1388,
+          "ey": -925
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.5997001499250375
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.5997001499250375
+          },
+          "offset_min": {
+            "x": -125,
+            "y": -125
+          },
+          "offset_max": {
+            "x": 125,
+            "y": 125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "circle_game_name_no_bg"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "circle game name no +c5351"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Sign Up Button",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "SIGN UP",
+            "text": {
+              "text": "SIGN UP",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Regular",
+              "size": 25,
+              "color": "#000000",
+              "align": "centermiddle",
+              "opacity": 100
+            },
+            "guid": "93ba8499-3d14-4310-9685-de3034b31706",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1215,
+              "y": -812.47998046875,
+              "width": 96,
+              "height": 33,
+              "ex": 1311,
+              "ey": -779.47998046875,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.1962025316455696,
+                "right": 0.1962025316455696,
+                "top": 0.16705920649509803,
+                "bottom": 0.1858819699754902,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0.5094113817401962
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 0.5094113817401962
+              },
+              "offset_min": {
+                "x": -48,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": 48,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "SIGN_UP"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Sign Up Button",
+            "guid": "a0061b9d-857d-4e37-ad0e-764b5ab4265f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1184,
+              "y": -821,
+              "width": 158,
+              "height": 51,
+              "ex": 1342,
+              "ey": -770
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Sign_Up_Button"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Sign Up Button+a0061"
+            }
+          }
+        ],
+        "guid": "dcc9472b-86df-48cc-9d46-f4e828bb9593",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1184,
+          "y": -821,
+          "width": 158,
+          "height": 51,
+          "ex": 1342,
+          "ey": -770
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.2181409295352324
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.2181409295352324
+          },
+          "offset_min": {
+            "x": -79,
+            "y": -25.5
+          },
+          "offset_max": {
+            "x": 79,
+            "y": 25.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Sign_Up_Button"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Log In Button",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "LOG IN",
+            "text": {
+              "text": "LOG IN",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Regular",
+              "size": 25,
+              "color": "#000000",
+              "align": "centermiddle",
+              "opacity": 100
+            },
+            "guid": "016b5523-7d28-4b19-a9e3-86ab8a131c9f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1224,
+              "y": -872.47998046875,
+              "width": 78,
+              "height": 33,
+              "ex": 1302,
+              "ey": -839.47998046875,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.25316455696202533,
+                "right": 0.25316455696202533,
+                "top": 0.16705920649509803,
+                "bottom": 0.1858819699754902,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0.5094113817401962
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 0.5094113817401962
+              },
+              "offset_min": {
+                "x": -39,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": 39,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "LOG_IN"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Log In Button",
+            "guid": "88552096-75d3-4ccc-9acd-917b01b45cb1",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1184,
+              "y": -881,
+              "width": 158,
+              "height": 51,
+              "ex": 1342,
+              "ey": -830
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Log_In_Button"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Log In Button+88552"
+            }
+          }
+        ],
+        "guid": "6043cc6c-ffd0-4bed-8878-0419f7eda059",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1184,
+          "y": -881,
+          "width": 158,
+          "height": 51,
+          "ex": 1342,
+          "ey": -830
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.308095952023988
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.308095952023988
+          },
+          "offset_min": {
+            "x": -79,
+            "y": -25.5
+          },
+          "offset_max": {
+            "x": 79,
+            "y": 25.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Log_In_Button"
+        ]
+      }
+    ],
+    "guid": "cb65b639-7b7a-4750-81ac-9964c82bd13f",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 1075,
+      "y": -1317,
+      "width": 375,
+      "height": 667,
+      "ex": 1450,
+      "ey": -650
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "SIGN_UP"
+    ],
+    "fill_color": "#192655"
+  }
+}

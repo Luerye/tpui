@@ -1,0 +1,4105 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "User Account Page - Avatar",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "girl",
+        "guid": "ecaac163-a1ab-44a5-85f5-a73512fea3fe",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 75,
+          "y": 6614,
+          "width": 50,
+          "height": 50,
+          "ex": 125,
+          "ey": 6664
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.2,
+            "y": 0.280359820089955
+          },
+          "anchor_max": {
+            "x": 0.2,
+            "y": 0.280359820089955
+          },
+          "offset_min": {
+            "x": -25,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 25,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "girl"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "girl+ecaac"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "girl",
+        "guid": "fc1b6326-e71d-434f-9b5c-800475a97439",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 75,
+          "y": 6533,
+          "width": 50,
+          "height": 50,
+          "ex": 125,
+          "ey": 6583
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.2,
+            "y": 0.4017991004497751
+          },
+          "anchor_max": {
+            "x": 0.2,
+            "y": 0.4017991004497751
+          },
+          "offset_min": {
+            "x": -25,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 25,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "girl"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "girl+fc1b6"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Avatar Rarity",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "Default Avatar",
+            "text": {
+              "text": "Default Avatar",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 20,
+              "color": "#000000",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "7080e91e-7182-4f89-abc4-86bc58fffcb6",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 208,
+              "y": 6689,
+              "width": 129,
+              "height": 26,
+              "ex": 337,
+              "ey": 6715,
+              "text": {
+                "fontSize": 20
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.48333333333333334,
+                "right": true,
+                "top": 0.2,
+                "bottom": 0.2222222222222222,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0.5111111111111111
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.5111111111111111
+              },
+              "offset_min": {
+                "x": -155,
+                "y": -13
+              },
+              "offset_max": {
+                "x": -26,
+                "y": 13
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Default_Avatar"
+            ]
+          },
+          {
+            "type": "Text",
+            "name": "Common",
+            "text": {
+              "text": "Common",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 20,
+              "color": "#ffffff",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "5cbfd18b-d155-428a-8a31-2b74b0736b04",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 92,
+              "y": 6689,
+              "width": 82,
+              "height": 26,
+              "ex": 174,
+              "ey": 6715,
+              "text": {
+                "fontSize": 20
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.63,
+                "top": 0.2,
+                "bottom": 0.2222222222222222,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.5111111111111111
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0.5111111111111111
+              },
+              "offset_min": {
+                "x": 29,
+                "y": -13
+              },
+              "offset_max": {
+                "x": 111,
+                "y": 13
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Common"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Rarity of Avatar",
+            "guid": "e59389d5-1dce-4e3a-be89-f1658c41cbde",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 70,
+              "y": 6685,
+              "width": 125,
+              "height": 35,
+              "ex": 195,
+              "ey": 6720
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.56,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 7,
+                "y": 5
+              },
+              "offset_max": {
+                "x": 132,
+                "y": -5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rarity_of_Avatar"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rarity of Avatar+e5938"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Description of Frame",
+            "guid": "ff1c458b-f886-4343-bb75-3ee9a6a53a11",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 63,
+              "y": 6680,
+              "width": 300,
+              "height": 45,
+              "ex": 363,
+              "ey": 6725
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Description_of_Frame"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Description of Frame+ff1c4"
+            }
+          }
+        ],
+        "guid": "9730e539-f345-40c7-84d4-b36e928b3c85",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 63,
+          "y": 6680,
+          "width": 300,
+          "height": 45,
+          "ex": 363,
+          "ey": 6725
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.1851574212893553
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.1851574212893553
+          },
+          "offset_min": {
+            "x": -150,
+            "y": -22.5
+          },
+          "offset_max": {
+            "x": 150,
+            "y": 22.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Avatar_Rarity"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "Icon awesome-user-alt",
+        "guid": "50d0ad07-46e7-41df-8a32-bcd789cfb1a6",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 87,
+          "y": 6463,
+          "width": 26,
+          "height": 26,
+          "ex": 113,
+          "ey": 6489
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.2,
+            "y": 0.5247376311844077
+          },
+          "anchor_max": {
+            "x": 0.2,
+            "y": 0.5247376311844077
+          },
+          "offset_min": {
+            "x": -13,
+            "y": -13
+          },
+          "offset_max": {
+            "x": 13,
+            "y": 13
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Icon_awesome-user-alt"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Icon awesome-user-al+50d0a"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Avatars",
+        "elements": [
+          {
+            "type": "Group",
+            "name": ".content",
+            "elements": [
+              {
+                "type": "Group",
+                "name": "rg2(786dde22-065e-49a4-abf3-03d164ebc152)",
+                "elements": [
+                  {
+                    "type": "Image",
+                    "name": "1",
+                    "guid": "28f7a69a-4558-4144-9515-778ee04632b4",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 70,
+                      "y": 6609,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 130,
+                      "ey": 6669
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ],
+                    "opacity": 100,
+                    "image": {
+                      "source_image": "1+28f7a"
+                    }
+                  },
+                  {
+                    "type": "Group",
+                    "name": "2",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "483b6727-87a3-4fdf-bc8d-a42c41b180aa",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 147,
+                          "y": 6614,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 197,
+                          "ey": 6664
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+483b6"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "2",
+                        "guid": "cdbbe2fb-e149-486e-aabc-76f7839befe2",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 142,
+                          "y": 6609,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 202,
+                          "ey": 6669
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "2+cdbbe"
+                        }
+                      }
+                    ],
+                    "guid": "43758dad-732d-47b2-9cc8-c6a6101eb88a",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 142,
+                      "y": 6609,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 202,
+                      "ey": 6669
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "3",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "girl",
+                        "guid": "53cc3772-8d4a-4889-b05b-ba28d2ad5265",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 226,
+                          "y": 6614,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 276,
+                          "ey": 6664
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "girl"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "girl+53cc3"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "3",
+                        "guid": "30c9783d-af54-46d8-ac41-6751293a4d79",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 221,
+                          "y": 6609,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 281,
+                          "ey": 6669
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "3+30c97"
+                        }
+                      }
+                    ],
+                    "guid": "91d30aae-f9a2-4c28-94a2-d0faf94427e2",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 221,
+                      "y": 6609,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 281,
+                      "ey": 6669
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "4",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "445337fb-335d-4807-a174-e13f37d52588",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 300,
+                          "y": 6614,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 350,
+                          "ey": 6664
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 4
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -6
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+44533"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "4",
+                        "guid": "f1e87f1d-721d-4757-bd20-37c6dc8a4a23",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 295,
+                          "y": 6608,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 355,
+                          "ey": 6668
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "4+f1e87"
+                        }
+                      }
+                    ],
+                    "guid": "9e06e87c-73ae-4cf6-addf-2d73cda78c89",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 295,
+                      "y": 6608,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 355,
+                      "ey": 6668
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "anchor_max": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  }
+                ],
+                "guid": "786dde22-065e-49a4-abf3-03d164ebc152",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 70,
+                  "y": 6608,
+                  "width": 285,
+                  "height": 61,
+                  "ex": 355,
+                  "ey": 6669
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": null,
+                    "right": null,
+                    "top": null,
+                    "bottom": null,
+                    "width": null,
+                    "height": null
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0.5,
+                    "y": 0.1367713004484305
+                  },
+                  "anchor_max": {
+                    "x": 0.5,
+                    "y": 0.1367713004484305
+                  },
+                  "offset_min": {
+                    "x": -142.5,
+                    "y": -30.5
+                  },
+                  "offset_max": {
+                    "x": 142.5,
+                    "y": 30.5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Avatars"
+                ]
+              },
+              {
+                "type": "Group",
+                "name": "rg1(78512fa0-3aa3-4b19-bbd8-e117b0fefcf0)",
+                "elements": [
+                  {
+                    "type": "Image",
+                    "name": "1",
+                    "guid": "fc704a08-b12e-479f-841f-b74eccd6f230",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 70,
+                      "y": 6528,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 130,
+                      "ey": 6588
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ],
+                    "opacity": 100,
+                    "image": {
+                      "source_image": "1+fc704"
+                    }
+                  },
+                  {
+                    "type": "Group",
+                    "name": "2",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "42a87192-8457-4870-aeb7-a795c57edc92",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 147,
+                          "y": 6533,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 197,
+                          "ey": 6583
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+42a87"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "2",
+                        "guid": "f5b8a67e-6e54-4044-8627-fdd41a71632a",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 142,
+                          "y": 6528,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 202,
+                          "ey": 6588
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "2+f5b8a"
+                        }
+                      }
+                    ],
+                    "guid": "a1a7079d-2e86-4276-a329-f0d6b4dd5b66",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 142,
+                      "y": 6528,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 202,
+                      "ey": 6588
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "3",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "girl",
+                        "guid": "4ecadc4f-86e6-44a3-84db-8439830820dc",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 226,
+                          "y": 6533,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 276,
+                          "ey": 6583
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "girl"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "girl+4ecad"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "3",
+                        "guid": "083e4da6-62c2-42a3-aa4d-b248d666d393",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 221,
+                          "y": 6528,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 281,
+                          "ey": 6588
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "3+083e4"
+                        }
+                      }
+                    ],
+                    "guid": "dec8f0ea-d8b9-45be-972e-017a500140b0",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 221,
+                      "y": 6528,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 281,
+                      "ey": 6588
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "4",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "06dde447-d7d8-4af8-b554-2f58e20823c4",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 300,
+                          "y": 6533,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 350,
+                          "ey": 6583
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 4
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -6
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+06dde"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "4",
+                        "guid": "8e298e1d-1cdf-4630-a025-90d8b16ee43d",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 295,
+                          "y": 6527,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 355,
+                          "ey": 6587
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "4+8e298"
+                        }
+                      }
+                    ],
+                    "guid": "a2bf07fb-8e44-45ac-9e10-ec8aa3b1429e",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 295,
+                      "y": 6527,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 355,
+                      "ey": 6587
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "anchor_max": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  }
+                ],
+                "guid": "78512fa0-3aa3-4b19-bbd8-e117b0fefcf0",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 70,
+                  "y": 6527,
+                  "width": 285,
+                  "height": 61,
+                  "ex": 355,
+                  "ey": 6588
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": null,
+                    "right": null,
+                    "top": null,
+                    "bottom": null,
+                    "width": null,
+                    "height": null
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": -142.5,
+                    "y": -30.5
+                  },
+                  "offset_max": {
+                    "x": 142.5,
+                    "y": 30.5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Avatars"
+                ]
+              },
+              {
+                "type": "Group",
+                "name": "rg0(18c6cd99-aaca-4785-89eb-db165250b26a)",
+                "elements": [
+                  {
+                    "type": "Image",
+                    "name": "1",
+                    "guid": "ef57b681-515b-48d8-82ee-e443231b0975",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 70,
+                      "y": 6447,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 130,
+                      "ey": 6507
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.10526315789473684,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ],
+                    "opacity": 100,
+                    "image": {
+                      "source_image": "1+ef57b"
+                    }
+                  },
+                  {
+                    "type": "Group",
+                    "name": "2",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "93a6442d-04f7-4386-8031-da916500d9d0",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 147,
+                          "y": 6452,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 197,
+                          "ey": 6502
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+93a64"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "2",
+                        "guid": "f29f1329-f2b7-4aa3-9d3b-0050ecfdb211",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 142,
+                          "y": 6447,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 202,
+                          "ey": 6507
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "2+f29f1"
+                        }
+                      }
+                    ],
+                    "guid": "018f2a30-8ad8-403b-83d9-dbf51de79e7c",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 142,
+                      "y": 6447,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 202,
+                      "ey": 6507
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.35789473684210527,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "3",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "girl",
+                        "guid": "926bf6a0-71ca-41cc-a71b-2705384bb7bc",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 226,
+                          "y": 6452,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 276,
+                          "ey": 6502
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 5
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -5
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "girl"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "girl+926bf"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "3",
+                        "guid": "23221261-ba13-4e85-9b78-ff0ea6383d5b",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 221,
+                          "y": 6447,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 281,
+                          "ey": 6507
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "3+23221"
+                        }
+                      }
+                    ],
+                    "guid": "377695ce-0ed7-4812-91ec-9b220fab304d",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 221,
+                      "y": 6447,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 281,
+                      "ey": 6507
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "anchor_max": {
+                        "x": 0.6350877192982456,
+                        "y": 0.4918032786885246
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  },
+                  {
+                    "type": "Group",
+                    "name": "4",
+                    "elements": [
+                      {
+                        "type": "Image",
+                        "name": "boy",
+                        "guid": "8d336b45-64c9-4ce7-8c9a-880ed3204dda",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 300,
+                          "y": 6452,
+                          "width": 50,
+                          "height": 50,
+                          "ex": 350,
+                          "ey": 6502
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 5,
+                            "y": 4
+                          },
+                          "offset_max": {
+                            "x": -5,
+                            "y": -6
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "boy"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "boy+8d336"
+                        }
+                      },
+                      {
+                        "type": "Image",
+                        "name": "4",
+                        "guid": "7ab04ea4-a47b-4afa-b16a-b4656dca8b9a",
+                        "active": true,
+                        "global_draw_bounds": {
+                          "x": 295,
+                          "y": 6446,
+                          "width": 60,
+                          "height": 60,
+                          "ex": 355,
+                          "ey": 6506
+                        },
+                        "rect_transform": {
+                          "fix": {
+                            "left": true,
+                            "right": true,
+                            "top": true,
+                            "bottom": true,
+                            "width": false,
+                            "height": false
+                          },
+                          "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "anchor_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "anchor_max": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "offset_min": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "offset_max": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "layer": "UI",
+                        "parsed_names": [
+                          "_"
+                        ],
+                        "opacity": 100,
+                        "image": {
+                          "source_image": "4+7ab04"
+                        }
+                      }
+                    ],
+                    "guid": "420236f8-3064-40df-958f-435f74b25c09",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 295,
+                      "y": 6446,
+                      "width": 60,
+                      "height": 60,
+                      "ex": 355,
+                      "ey": 6506
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": null,
+                        "right": null,
+                        "top": null,
+                        "bottom": null,
+                        "width": null,
+                        "height": null
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "anchor_max": {
+                        "x": 0.8947368421052632,
+                        "y": 0.5081967213114754
+                      },
+                      "offset_min": {
+                        "x": -30,
+                        "y": -30
+                      },
+                      "offset_max": {
+                        "x": 30,
+                        "y": 30
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "_"
+                    ]
+                  }
+                ],
+                "guid": "18c6cd99-aaca-4785-89eb-db165250b26a",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 70,
+                  "y": 6446,
+                  "width": 285,
+                  "height": 61,
+                  "ex": 355,
+                  "ey": 6507
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": null,
+                    "right": null,
+                    "top": null,
+                    "bottom": null,
+                    "width": null,
+                    "height": null
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0.5,
+                    "y": 0.8632286995515694
+                  },
+                  "anchor_max": {
+                    "x": 0.5,
+                    "y": 0.8632286995515694
+                  },
+                  "offset_min": {
+                    "x": -142.5,
+                    "y": -30.5
+                  },
+                  "offset_max": {
+                    "x": 142.5,
+                    "y": 30.5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Avatars"
+                ]
+              }
+            ],
+            "x": 70,
+            "y": 6446,
+            "width": 285,
+            "height": 223,
+            "ex": 355,
+            "ey": 6669,
+            "global_draw_bounds": {
+              "x": 70,
+              "y": 6446,
+              "width": 285,
+              "height": 223,
+              "ex": 355,
+              "ey": 355
+            },
+            "rect_transform": {
+              "fix": {
+                "left": null,
+                "right": null,
+                "top": null,
+                "bottom": null,
+                "width": null,
+                "height": null
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0.5152173913043478
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 0.5152173913043478
+              },
+              "offset_min": {
+                "x": -142.5,
+                "y": -111.5
+              },
+              "offset_max": {
+                "x": 142.5,
+                "y": 111.5
+              }
+            },
+            "layer": "UI",
+            "layout_group": {
+              "method": "vertical",
+              "padding": {
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "bottom": 0
+              },
+              "spacing_y": 20
+            },
+            "content_size_fitter": {
+              "vertical_fit": "preferred-size"
+            }
+          }
+        ],
+        "guid": "0beb1571-c681-4041-912f-6818767c5d93",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 70,
+          "y": 6446,
+          "width": 285,
+          "height": 230,
+          "ex": 355,
+          "ey": 6676
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.39730134932533734
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.39730134932533734
+          },
+          "offset_min": {
+            "x": -142.5,
+            "y": -115
+          },
+          "offset_max": {
+            "x": 142.5,
+            "y": 115
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Avatars"
+        ],
+        "rect_mask_2d": "true"
+      },
+      {
+        "type": "Image",
+        "name": "Selected Avatar",
+        "guid": "0aa050df-d27b-4591-b7c7-c7d50ecb96ed",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 62,
+          "y": 6439,
+          "width": 75,
+          "height": 75,
+          "ex": 137,
+          "ey": 6514
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.19866666666666666,
+            "y": 0.5239880059970015
+          },
+          "anchor_max": {
+            "x": 0.19866666666666666,
+            "y": 0.5239880059970015
+          },
+          "offset_min": {
+            "x": -37.5,
+            "y": -37.5
+          },
+          "offset_max": {
+            "x": 37.5,
+            "y": 37.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Selected_Avatar"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Selected Avatar+0aa05"
+        }
+      },
+      {
+        "type": "Text",
+        "name": "Frame",
+        "text": {
+          "text": "Frame",
+          "textType": "point",
+          "font": "Roboto",
+          "style": "Bold",
+          "size": 20,
+          "color": "#ffffff",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "11c7d062-1465-4886-8064-02c6555e5065",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 272,
+          "y": 6404,
+          "width": 57,
+          "height": 26,
+          "ex": 329,
+          "ey": 6430,
+          "text": {
+            "fontSize": 20
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.7346666666666667,
+            "y": 0.6131934032983508
+          },
+          "anchor_max": {
+            "x": 0.7346666666666667,
+            "y": 0.6131934032983508
+          },
+          "offset_min": {
+            "x": -28.5,
+            "y": -13
+          },
+          "offset_max": {
+            "x": 28.5,
+            "y": 13
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Frame"
+        ]
+      },
+      {
+        "type": "Text",
+        "name": "Avatar",
+        "text": {
+          "text": "Avatar",
+          "textType": "point",
+          "font": "Roboto",
+          "style": "Bold",
+          "size": 20,
+          "color": "#ffffff",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "e0134221-2863-479e-88b4-47002789a849",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 97,
+          "y": 6404,
+          "width": 59,
+          "height": 26,
+          "ex": 156,
+          "ey": 6430,
+          "text": {
+            "fontSize": 20
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.27066666666666667,
+            "y": 0.6131934032983508
+          },
+          "anchor_max": {
+            "x": 0.27066666666666667,
+            "y": 0.6131934032983508
+          },
+          "offset_min": {
+            "x": -29.5,
+            "y": -13
+          },
+          "offset_max": {
+            "x": 29.5,
+            "y": 13
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Avatar"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "Folder Avatar",
+        "guid": "748d31bb-3333-4178-a2a6-ba44dd66b3c5",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 63,
+          "y": 6400,
+          "width": 125,
+          "height": 35,
+          "ex": 188,
+          "ey": 6435
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.268,
+            "y": 0.6124437781109445
+          },
+          "anchor_max": {
+            "x": 0.268,
+            "y": 0.6124437781109445
+          },
+          "offset_min": {
+            "x": -62.5,
+            "y": -17.5
+          },
+          "offset_max": {
+            "x": 62.5,
+            "y": 17.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Folder_Avatar"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Folder Avatar+748d3"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Avatar Background",
+        "guid": "f886b86d-e21f-47ab-bfdb-502f7992d2ec",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 54,
+          "y": 6390,
+          "width": 320,
+          "height": 345,
+          "ex": 374,
+          "ey": 6735
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.504,
+            "y": 0.3950524737631185
+          },
+          "anchor_max": {
+            "x": 0.504,
+            "y": 0.3950524737631185
+          },
+          "offset_min": {
+            "x": -160,
+            "y": -172.5
+          },
+          "offset_max": {
+            "x": 160,
+            "y": 172.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Avatar_Background"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Avatar Background+f886b"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Star Count",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-star",
+            "guid": "a0c1427d-7ddf-413c-8d3d-4678d0d9769c",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 319,
+              "y": 6350,
+              "width": 27,
+              "height": 26,
+              "ex": 346,
+              "ey": 6376
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.8167539267015707,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -35,
+                "y": 7
+              },
+              "offset_max": {
+                "x": -8,
+                "y": -7
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-star"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-star+a0c14"
+            }
+          },
+          {
+            "type": "Text",
+            "name": "Star Count",
+            "text": {
+              "text": "Star Count",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 20,
+              "color": "#000000",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "1e2eff10-acf9-498a-a3b5-2763bf103c5a",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 178,
+              "y": 6349,
+              "width": 96,
+              "height": 26,
+              "ex": 274,
+              "ey": 6375,
+              "text": {
+                "fontSize": 20
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.418848167539267,
+                "top": 0.15,
+                "bottom": 0.2,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.525
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0.525
+              },
+              "offset_min": {
+                "x": 15,
+                "y": -13
+              },
+              "offset_max": {
+                "x": 111,
+                "y": 13
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Star_Count"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Player ID Background",
+            "guid": "587723d2-6f4a-4740-9cd3-f8a801d018b6",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 163,
+              "y": 6343,
+              "width": 191,
+              "height": 40,
+              "ex": 354,
+              "ey": 6383
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Player_ID_Background"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Player ID Background+58772"
+            }
+          }
+        ],
+        "guid": "92be76f8-7b49-4279-a044-a605992ff4e1",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 163,
+          "y": 6343,
+          "width": 191,
+          "height": 40,
+          "ex": 354,
+          "ey": 6383
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.6226666666666667,
+            "y": 0.6941529235382309
+          },
+          "anchor_max": {
+            "x": 0.6226666666666667,
+            "y": 0.6941529235382309
+          },
+          "offset_min": {
+            "x": -95.5,
+            "y": -20
+          },
+          "offset_max": {
+            "x": 95.5,
+            "y": 20
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Star_Count"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "IGN",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-edit",
+            "guid": "2387784d-7ef6-480d-b1d9-50702a4f2b88",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 322.99688720703125,
+              "y": 6306.5732421875,
+              "width": 25,
+              "height": 23,
+              "ex": 347.99688720703125,
+              "ey": 6329.5732421875
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.8376800377331479,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -31.00311279296875,
+                "y": 8.4267578125
+              },
+              "offset_max": {
+                "x": -6.00311279296875,
+                "y": -8.5732421875
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-edit"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-edit+23877"
+            }
+          },
+          {
+            "type": "Text",
+            "name": "IGN",
+            "text": {
+              "text": "IGN",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 20,
+              "color": "#000000",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "b2527613-61a1-46ac-9215-9bbf27c52f27",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 178,
+              "y": 6304,
+              "width": 34,
+              "height": 26,
+              "ex": 212,
+              "ey": 6330,
+              "text": {
+                "fontSize": 20
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.743455497382199,
+                "top": 0.15,
+                "bottom": 0.2,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.525
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0.525
+              },
+              "offset_min": {
+                "x": 15,
+                "y": -13
+              },
+              "offset_max": {
+                "x": 49,
+                "y": 13
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "IGN"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Player Name Background",
+            "guid": "d4f4b285-b7ce-4421-be10-76553c29dd1a",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 163,
+              "y": 6298,
+              "width": 191,
+              "height": 40,
+              "ex": 354,
+              "ey": 6338
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Player_Name_Background"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Player Name Backgrou+d4f4b"
+            }
+          }
+        ],
+        "guid": "64c06096-6027-4a1a-9b1d-e779211279bc",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 163,
+          "y": 6298,
+          "width": 191,
+          "height": 40,
+          "ex": 354,
+          "ey": 6338
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.6226666666666667,
+            "y": 0.7616191904047975
+          },
+          "anchor_max": {
+            "x": 0.6226666666666667,
+            "y": 0.7616191904047975
+          },
+          "offset_min": {
+            "x": -95.5,
+            "y": -20
+          },
+          "offset_max": {
+            "x": 95.5,
+            "y": 20
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "IGN"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Player ID",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "Player ID",
+            "text": {
+              "text": "Player ID",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 20,
+              "color": "#000000",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "fcec3a02-bb0a-4a55-9197-6fd5cd6c3382",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 178,
+              "y": 6259,
+              "width": 81,
+              "height": 26,
+              "ex": 259,
+              "ey": 6285,
+              "text": {
+                "fontSize": 20
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.4973821989528796,
+                "top": 0.15,
+                "bottom": 0.2,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.525
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0.525
+              },
+              "offset_min": {
+                "x": 15,
+                "y": -13
+              },
+              "offset_max": {
+                "x": 96,
+                "y": 13
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Player_ID"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Player ID Background",
+            "guid": "6f09f360-7d3b-41af-95d9-6e380bea4d55",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 163,
+              "y": 6253,
+              "width": 191,
+              "height": 40,
+              "ex": 354,
+              "ey": 6293
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Player_ID_Background"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Player ID Background+6f09f"
+            }
+          }
+        ],
+        "guid": "cfe369c5-0f2b-4397-ac45-23d0c0157c05",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 163,
+          "y": 6253,
+          "width": 191,
+          "height": 40,
+          "ex": 354,
+          "ey": 6293
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.6226666666666667,
+            "y": 0.8290854572713644
+          },
+          "anchor_max": {
+            "x": 0.6226666666666667,
+            "y": 0.8290854572713644
+          },
+          "offset_min": {
+            "x": -95.5,
+            "y": -20
+          },
+          "offset_max": {
+            "x": 95.5,
+            "y": 20
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Player_ID"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Profile Icon",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-user-alt",
+            "guid": "b105c8a7-7ce6-4be0-b425-238286ea4bac",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 84,
+              "y": 6295,
+              "width": 46,
+              "height": 46,
+              "ex": 130,
+              "ey": 6341
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.2604166666666667,
+                "right": 0.2604166666666667,
+                "top": 0.2604166666666667,
+                "bottom": 0.2604166666666667,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "offset_min": {
+                "x": -23,
+                "y": -23
+              },
+              "offset_max": {
+                "x": 23,
+                "y": 23
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-user-alt"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-user-al+b105c"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Profile",
+            "guid": "9c2b5c17-fca5-4305-810b-811c479779a0",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 69,
+              "y": 6280,
+              "width": 76,
+              "height": 76,
+              "ex": 145,
+              "ey": 6356
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 10,
+                "y": 10
+              },
+              "offset_max": {
+                "x": -10,
+                "y": -10
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Profile"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Profile+9c2b5"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Profile outline",
+            "guid": "ac7d35a5-461d-42d2-9ca4-6ff9719afe41",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 59,
+              "y": 6270,
+              "width": 96,
+              "height": 96,
+              "ex": 155,
+              "ey": 6366
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Profile_outline"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Profile outline+ac7d3"
+            }
+          }
+        ],
+        "guid": "add7a09d-ede7-49a2-850e-0642356602de",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 59,
+          "y": 6270,
+          "width": 96,
+          "height": 96,
+          "ex": 155,
+          "ey": 6366
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.21866666666666668,
+            "y": 0.7616191904047975
+          },
+          "anchor_max": {
+            "x": 0.21866666666666668,
+            "y": 0.7616191904047975
+          },
+          "offset_min": {
+            "x": -48,
+            "y": -48
+          },
+          "offset_max": {
+            "x": 48,
+            "y": 48
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Profile_Icon"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Profile",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "PROFILE",
+            "text": {
+              "text": "PROFILE",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 25,
+              "color": "#000000",
+              "align": "centermiddle",
+              "opacity": 100
+            },
+            "guid": "4a151e0c-e21a-4e3c-ad30-d678dd09973f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 163,
+              "y": 6186,
+              "width": 98,
+              "height": 33,
+              "ex": 261,
+              "ey": 6219,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.255,
+                "right": 0.255,
+                "top": true,
+                "bottom": 0.15217391304347827,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 1
+              },
+              "anchor_min": {
+                "x": 0.49999999999999994,
+                "y": 1
+              },
+              "anchor_max": {
+                "x": 0.49999999999999994,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -49,
+                "y": -39
+              },
+              "offset_max": {
+                "x": 49,
+                "y": -6
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "PROFILE"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Profile",
+            "guid": "23f8243e-5504-49e2-877f-3c3e63e0a9bb",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 112,
+              "y": 6180,
+              "width": 200,
+              "height": 46,
+              "ex": 312,
+              "ey": 6226
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Profile"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Profile+23f82"
+            }
+          }
+        ],
+        "guid": "5f0950f8-60d3-49b1-8174-dd1f9b1356a6",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 112,
+          "y": 6180,
+          "width": 200,
+          "height": 46,
+          "ex": 312,
+          "ey": 6226
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49866666666666665,
+            "y": 0.9340329835082459
+          },
+          "anchor_max": {
+            "x": 0.49866666666666665,
+            "y": 0.9340329835082459
+          },
+          "offset_min": {
+            "x": -100,
+            "y": -23
+          },
+          "offset_max": {
+            "x": 100,
+            "y": 23
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Profile"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "Profile Background",
+        "guid": "2d7b4868-408d-4a41-9aad-d5aa3b71575a",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 43,
+          "y": 6240,
+          "width": 340,
+          "height": 505,
+          "ex": 383,
+          "ey": 6745
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": -170,
+            "y": -252.5
+          },
+          "offset_max": {
+            "x": 170,
+            "y": 252.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Profile_Background"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Profile Background+2d7b4"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Icons",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-home",
+            "guid": "27224f3b-5a92-4fbd-beaa-571c83cf85f0",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 37.00757598876953,
+              "y": 6782.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 73.00757598876953,
+              "ey": 6818.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.8971428571428571,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 36,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-home"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-home+27224"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon metro-books",
+            "guid": "143e3bd8-1f17-471d-bb37-89793efb374f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 108.00758361816406,
+              "y": 6782.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 144.00758361816406,
+              "ey": 6818.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.20285716465541295,
+                "right": 0.6942856924874442,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.25428573608398436,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.25428573608398436,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -18,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 18,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_metro-books"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon metro-books+143e3"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "AR SCANNER",
+            "elements": [
+              {
+                "type": "Image",
+                "name": "ar scanner",
+                "guid": "28982896-5dfc-4e6e-8a68-feeac547399a",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 184.5,
+                  "y": 6751.47314453125,
+                  "width": 56,
+                  "height": 56,
+                  "ex": 240.5,
+                  "ey": 6807.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 5.492431640625,
+                    "y": 5
+                  },
+                  "offset_max": {
+                    "x": -4.507568359375,
+                    "y": -5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner+28982"
+                }
+              },
+              {
+                "type": "Image",
+                "name": "ar scanner circle",
+                "guid": "bdd075bb-1612-4fe4-ae0e-87ccd78552c1",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 179.007568359375,
+                  "y": 6746.47314453125,
+                  "width": 66,
+                  "height": 66,
+                  "ex": 245.007568359375,
+                  "ey": 6812.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner_circle"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner circle+bdd07"
+                }
+              }
+            ],
+            "guid": "4c574693-1f3b-4c0f-9410-8a43e8526578",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 179.007568359375,
+              "y": 6746.47314453125,
+              "width": 66,
+              "height": 66,
+              "ex": 245.007568359375,
+              "ey": 6812.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.4057142639160156,
+                "right": 0.4057143075125558,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.4999999782017299,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.4999999782017299,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -33,
+                "y": 6
+              },
+              "offset_max": {
+                "x": 33,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "AR_SCANNER"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Icon ionic-md-settings",
+            "guid": "e1a858d3-2d59-4b49-ab28-1543bdcb1696",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 280.0075988769531,
+              "y": 6782.47314453125,
+              "width": 35.999969482421875,
+              "height": 36,
+              "ex": 316.007568359375,
+              "ey": 6818.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.6942857796805245,
+                "right": 0.20285716465541295,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.7457143075125557,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.7457143075125557,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -17.999984741210938,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 17.999984741210938,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_ionic-md-settings"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon ionic-md-settin+e1a85"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon awesome-user-alt",
+            "guid": "2d3a658d-b3bb-4459-b892-f75c326d2183",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 351.007568359375,
+              "y": 6782.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 387.007568359375,
+              "ey": 6818.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.897142835344587,
+                "right": true,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -36.00000762939453,
+                "y": 0
+              },
+              "offset_max": {
+                "x": -0.00000762939453125,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-user-alt"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-user-al+2d3a6"
+            }
+          }
+        ],
+        "guid": "afe63db0-0905-4bd3-9c80-807a4c995f57",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 37.00757598876953,
+          "y": 6746.47314453125,
+          "width": 350,
+          "height": 72,
+          "ex": 387.00757598876953,
+          "ey": 6818.47314453125
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4986868693033854,
+            "y": 0.06525765437593706
+          },
+          "anchor_max": {
+            "x": 0.4986868693033854,
+            "y": 0.06525765437593706
+          },
+          "offset_min": {
+            "x": -175,
+            "y": -36
+          },
+          "offset_max": {
+            "x": 175,
+            "y": 36
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Icons"
+        ]
+      },
+      {
+        "elements": [],
+        "type": "Image",
+        "name": "Union 1",
+        "guid": "6e604967-101f-43bc-9378-478e6fc5d7b4",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 24.999755859375,
+          "y": 6741.9990234375,
+          "width": 375.00030517578125,
+          "height": 84.0009765625,
+          "ex": 400.00006103515625,
+          "ey": 6826
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.499999755859375,
+            "y": 0.06296924779797602
+          },
+          "anchor_max": {
+            "x": 0.499999755859375,
+            "y": 0.06296924779797602
+          },
+          "offset_min": {
+            "x": -187.50015258789062,
+            "y": -42.00048828125
+          },
+          "offset_max": {
+            "x": 187.50015258789062,
+            "y": 42.00048828125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Union_1"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Union 1+6e604"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Homepage bg",
+        "guid": "de75b64c-17d1-40e8-a99c-d396b91c8377",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 25,
+          "y": 6159,
+          "width": 375,
+          "height": 667,
+          "ex": 400,
+          "ey": 6826
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": -187.5,
+            "y": -333.5
+          },
+          "offset_max": {
+            "x": 187.5,
+            "y": 333.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Homepage_bg"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Homepage bg+de75b"
+        }
+      }
+    ],
+    "guid": "e30630af-eed0-4c2b-ba9f-862e16013ecf",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 25,
+      "y": 6159,
+      "width": 375,
+      "height": 667,
+      "ex": 400,
+      "ey": 6826
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "User_Account_Page_-_Avatar"
+    ],
+    "fill_color": "#192655"
+  }
+}

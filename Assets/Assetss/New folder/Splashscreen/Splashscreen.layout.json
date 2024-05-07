@@ -1,0 +1,109 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Splashscreen",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "team name",
+        "guid": "26a83e22-395c-45aa-9ff2-d2d44d7ab36d",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 63,
+          "y": -1133,
+          "width": 300,
+          "height": 300,
+          "ex": 363,
+          "ey": -833
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.4992503748125937
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.4992503748125937
+          },
+          "offset_min": {
+            "x": -150,
+            "y": -150
+          },
+          "offset_max": {
+            "x": 150,
+            "y": 150
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "team_name"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "team name+26a83"
+        }
+      }
+    ],
+    "guid": "7c2272e2-26ec-4407-91cc-eae39bafb941",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 25,
+      "y": -1317,
+      "width": 375,
+      "height": 667,
+      "ex": 400,
+      "ey": -650
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Splashscreen"
+    ],
+    "fill_color": "#192655"
+  }
+}

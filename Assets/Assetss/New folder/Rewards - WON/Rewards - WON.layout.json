@@ -1,0 +1,1330 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Rewards - WON",
+    "elements": [
+      {
+        "type": "Group",
+        "name": "REWARD",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "CLAIM",
+            "text": {
+              "text": "CLAIM",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 25,
+              "color": "#ffffff",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "14cf9d14-8238-49a2-8591-a86219ae2cfa",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1225,
+              "y": 4666,
+              "width": 77,
+              "height": 33,
+              "ex": 1302,
+              "ey": 4699,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.24666666666666667,
+                "right": 0.24,
+                "top": 0.16,
+                "bottom": 0.18,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5033333333333333,
+                "y": 0.51
+              },
+              "anchor_max": {
+                "x": 0.5033333333333333,
+                "y": 0.51
+              },
+              "offset_min": {
+                "x": -38.5,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": 38.5,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "CLAIM"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "REWARD",
+            "guid": "f81c6c0b-10ed-4895-b3ef-c0a7daee04b3",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1188,
+              "y": 4658,
+              "width": 150,
+              "height": 50,
+              "ex": 1338,
+              "ey": 4708
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "REWARD"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "REWARD+f81c6"
+            }
+          }
+        ],
+        "guid": "cff9ff47-9692-44e5-a018-9ef24fde45a4",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1188,
+          "y": 4658,
+          "width": 150,
+          "height": 50,
+          "ex": 1338,
+          "ey": 4708
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.3133433283358321
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.3133433283358321
+          },
+          "offset_min": {
+            "x": -75,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 75,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "REWARD"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "STARS",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-star",
+            "guid": "d67d5317-d2cb-4446-820d-4201a470d1c4",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1118.45556640625,
+              "y": 4541.5,
+              "width": 87.0888671875,
+              "height": 87.06640625,
+              "ex": 1205.54443359375,
+              "ey": 4628.56640625
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.6987470737466515,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 87.0888671875,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-star"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-star+d67d5"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon awesome-star",
+            "guid": "9bce82c7-47f1-4cd9-beeb-775b278b7730",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1219.45556640625,
+              "y": 4541.5,
+              "width": 87.0888671875,
+              "height": 87.06640625,
+              "ex": 1306.54443359375,
+              "ey": 4628.56640625
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.34937353687332573,
+                "right": 0.34937353687332573,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -43.54443359375,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 43.54443359375,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-star"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-star+9bce8"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon awesome-star",
+            "guid": "7af29878-0acb-4f61-9940-259620fa4cb9",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1320.45556640625,
+              "y": 4541.5,
+              "width": 87.0888671875,
+              "height": 87.06640625,
+              "ex": 1407.54443359375,
+              "ey": 4628.56640625
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.6987470737466515,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -87.0888671875,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-star"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-star+7af29"
+            }
+          }
+        ],
+        "guid": "9c566dd1-9dd9-4774-8c7c-a3036d5186e0",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1118.45556640625,
+          "y": 4541.5,
+          "width": 289.0888671875,
+          "height": 87.06640625,
+          "ex": 1407.54443359375,
+          "ey": 4628.56640625
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.4602200852698651
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.4602200852698651
+          },
+          "offset_min": {
+            "x": -144.54443359375,
+            "y": -43.533203125
+          },
+          "offset_max": {
+            "x": 144.54443359375,
+            "y": 43.533203125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "STARS"
+        ]
+      },
+      {
+        "type": "Text",
+        "name": "Congratulations!\nYou've won and earned stars!",
+        "text": {
+          "text": "Congratulations!\nYou've won and earned stars!",
+          "textType": "point",
+          "font": "Roboto",
+          "style": "Bold",
+          "size": 20,
+          "color": "#ffffff",
+          "align": "centermiddle",
+          "opacity": 100
+        },
+        "guid": "108219b5-1110-412e-b473-96a11a9b8b1b",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1132,
+          "y": 4462,
+          "width": 262,
+          "height": 52,
+          "ex": 1394,
+          "ey": 4514,
+          "text": {
+            "fontSize": 20
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.6056971514242878
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.6056971514242878
+          },
+          "offset_min": {
+            "x": -131,
+            "y": -26
+          },
+          "offset_max": {
+            "x": 131,
+            "y": 26
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Congratulations__You_ve_won_and_earned_stars_"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "REWARD",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "REWARD",
+            "text": {
+              "text": "REWARD",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 25,
+              "color": "#ffffff",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "153c75af-e8d5-4ce0-bb59-b65ad2844d27",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1213,
+              "y": 4392,
+              "width": 101,
+              "height": 33,
+              "ex": 1314,
+              "ey": 4425,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.25,
+                "right": 0.245,
+                "top": 0.16,
+                "bottom": 0.18,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5025,
+                "y": 0.51
+              },
+              "anchor_max": {
+                "x": 0.5025,
+                "y": 0.51
+              },
+              "offset_min": {
+                "x": -50.5,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": 50.5,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "REWARD"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "REWARD",
+            "guid": "e951ec55-a235-4494-841b-2e58e2f57c38",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1163,
+              "y": 4384,
+              "width": 200,
+              "height": 50,
+              "ex": 1363,
+              "ey": 4434
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "REWARD"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "REWARD+e951e"
+            }
+          }
+        ],
+        "guid": "e26c1357-38fd-4d26-8b32-3728997b86ec",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1163,
+          "y": 4384,
+          "width": 200,
+          "height": 50,
+          "ex": 1363,
+          "ey": 4434
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013333333333333,
+            "y": 0.7241379310344828
+          },
+          "anchor_max": {
+            "x": 0.5013333333333333,
+            "y": 0.7241379310344828
+          },
+          "offset_min": {
+            "x": -100,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 100,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "REWARD"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "REWARD BACKGROUND",
+        "guid": "8a6f3a87-4268-434c-a3fb-2dce84f0bb74",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1100,
+          "y": 4409,
+          "width": 325,
+          "height": 325,
+          "ex": 1425,
+          "ey": 4734
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.48050974512743627
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.48050974512743627
+          },
+          "offset_min": {
+            "x": -162.5,
+            "y": -162.5
+          },
+          "offset_max": {
+            "x": 162.5,
+            "y": 162.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "REWARD_BACKGROUND"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "REWARD BACKGROUND+8a6f3"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "Icons",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Icon awesome-home",
+            "guid": "d0b95973-a984-4a88-8a4a-b15bd6c238bd",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1087.007568359375,
+              "y": 4848.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1123.007568359375,
+              "ey": 4884.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": 0.8971428571428571,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 36,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-home"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-home+d0b95"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon metro-books",
+            "guid": "217e4d8f-b7a0-4b1c-9ee8-adab24cd846b",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1158.007568359375,
+              "y": 4848.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1194.007568359375,
+              "ey": 4884.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.20285714285714285,
+                "right": 0.6942857142857143,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.2542857142857143,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.2542857142857143,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -18,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 18,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_metro-books"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon metro-books+217e4"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "AR SCANNER",
+            "elements": [
+              {
+                "type": "Image",
+                "name": "ar scanner",
+                "guid": "554904cf-29b8-49a2-b37c-6e93f302ddf0",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1234.5,
+                  "y": 4817.47314453125,
+                  "width": 56,
+                  "height": 56,
+                  "ex": 1290.5,
+                  "ey": 4873.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 5.492431640625,
+                    "y": 5
+                  },
+                  "offset_max": {
+                    "x": -4.507568359375,
+                    "y": -5
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner+55490"
+                }
+              },
+              {
+                "type": "Image",
+                "name": "ar scanner circle",
+                "guid": "1f8271d8-fa3b-45dc-ba2b-9e3b7f7f1ebe",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 1229.007568359375,
+                  "y": 4812.47314453125,
+                  "width": 66,
+                  "height": 66,
+                  "ex": 1295.007568359375,
+                  "ey": 4878.47314453125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "ar_scanner_circle"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "ar scanner circle+1f827"
+                }
+              }
+            ],
+            "guid": "01b38fd7-1cce-4cad-b9b2-b91e538f2cbf",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1229.007568359375,
+              "y": 4812.47314453125,
+              "width": 66,
+              "height": 66,
+              "ex": 1295.007568359375,
+              "ey": 4878.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.4057142857142857,
+                "right": 0.4057142857142857,
+                "top": true,
+                "bottom": true,
+                "width": true,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.5,
+                "y": 1
+              },
+              "offset_min": {
+                "x": -33,
+                "y": 6
+              },
+              "offset_max": {
+                "x": 33,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "AR_SCANNER"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Icon ionic-md-settings",
+            "guid": "dfad868c-f574-4bd3-a8c1-80d61b0bfb6f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1330.0076904296875,
+              "y": 4848.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1366.0076904296875,
+              "ey": 4884.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.6942860630580358,
+                "right": 0.20285679408482143,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0.7457146344866071,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 0.7457146344866071,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -18,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 18,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_ionic-md-settings"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon ionic-md-settin+dfad8"
+            }
+          },
+          {
+            "type": "Image",
+            "name": "Icon awesome-user-alt",
+            "guid": "ac0cb9ba-ff42-4ca2-9bbc-3a0118763afe",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1401.007568359375,
+              "y": 4848.47314453125,
+              "width": 36,
+              "height": 36,
+              "ex": 1437.007568359375,
+              "ey": 4884.47314453125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": 0.8971428571428571,
+                "right": true,
+                "top": 0.5,
+                "bottom": true,
+                "width": true,
+                "height": true
+              },
+              "pivot": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 1,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0
+              },
+              "offset_min": {
+                "x": -36,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 36
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Icon_awesome-user-alt"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Icon awesome-user-al+ac0cb"
+            }
+          }
+        ],
+        "guid": "a317196e-fd3b-4001-b1a9-cb5673682369",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1087.007568359375,
+          "y": 4812.47314453125,
+          "width": 350,
+          "height": 72,
+          "ex": 1437.007568359375,
+          "ey": 4884.47314453125
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4986868489583333,
+            "y": 0.06525765437593706
+          },
+          "anchor_max": {
+            "x": 0.4986868489583333,
+            "y": 0.06525765437593706
+          },
+          "offset_min": {
+            "x": -175,
+            "y": -36
+          },
+          "offset_max": {
+            "x": 175,
+            "y": 36
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Icons"
+        ]
+      },
+      {
+        "elements": [],
+        "type": "Image",
+        "name": "Union 1",
+        "guid": "45807f5b-2ac9-4a4d-8623-4d6bf0d94873",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1074.999755859375,
+          "y": 4807.9990234375,
+          "width": 375.000244140625,
+          "height": 84.0009765625,
+          "ex": 1450,
+          "ey": 4892
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49999967447916666,
+            "y": 0.06296924779797602
+          },
+          "anchor_max": {
+            "x": 0.49999967447916666,
+            "y": 0.06296924779797602
+          },
+          "offset_min": {
+            "x": -187.5001220703125,
+            "y": -42.00048828125
+          },
+          "offset_max": {
+            "x": 187.5001220703125,
+            "y": 42.00048828125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Union_1"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Union 1+45807"
+        }
+      },
+      {
+        "type": "Group",
+        "name": "AR SCANNER",
+        "elements": [
+          {
+            "type": "Text",
+            "name": "AR SCANNER",
+            "text": {
+              "text": "AR SCANNER",
+              "textType": "point",
+              "font": "Roboto",
+              "style": "Bold",
+              "size": 25,
+              "color": "#000000",
+              "align": "leftmiddle",
+              "opacity": 100
+            },
+            "guid": "71dfb610-f9c1-4e90-8765-766b3892672a",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1184,
+              "y": 4270.11767578125,
+              "width": 153,
+              "height": 33,
+              "ex": 1337,
+              "ey": 4303.11767578125,
+              "text": {
+                "fontSize": 25
+              }
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.162353515625,
+                "bottom": 0.177646484375,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.5076464843749999
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.5076464843749999
+              },
+              "offset_min": {
+                "x": 24,
+                "y": -16.5
+              },
+              "offset_max": {
+                "x": -23,
+                "y": 16.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "AR_SCANNER"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "AR SCANNER",
+            "guid": "518b2104-14ef-4482-bbe2-788c3682d913",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 1160,
+              "y": 4262,
+              "width": 200,
+              "height": 50,
+              "ex": 1360,
+              "ey": 4312
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "AR_SCANNER"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "AR SCANNER+518b2"
+            }
+          }
+        ],
+        "guid": "1216e72d-aa6c-48c0-8a24-95cb4b78553a",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 1160,
+          "y": 4262,
+          "width": 200,
+          "height": 50,
+          "ex": 1360,
+          "ey": 4312
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49333333333333335,
+            "y": 0.9070464767616192
+          },
+          "anchor_max": {
+            "x": 0.49333333333333335,
+            "y": 0.9070464767616192
+          },
+          "offset_min": {
+            "x": -100,
+            "y": -25
+          },
+          "offset_max": {
+            "x": 100,
+            "y": 25
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "AR_SCANNER"
+        ]
+      }
+    ],
+    "guid": "e4b84f4e-4db2-497c-9456-bbc0fcd3ec45",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 1075,
+      "y": 4225,
+      "width": 375,
+      "height": 667,
+      "ex": 1450,
+      "ey": 4892
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -187.5,
+        "y": -333.5
+      },
+      "offset_max": {
+        "x": 187.5,
+        "y": 333.5
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Rewards_-_WON"
+    ],
+    "fill_color": "#ffffff"
+  }
+}
